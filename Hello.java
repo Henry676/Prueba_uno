@@ -32,4 +32,5 @@ public class Hello{
 
     }
 }
-//Dev 2 desarrollara una funcion que encuentre un numero en un array
+//Dev 2 desarrollo una funcion que encuentre un numero en un array
+//Documentando ando
